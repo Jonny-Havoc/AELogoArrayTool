@@ -7,4 +7,5 @@ It will then evenly duplicate the the logo across the comp, either horizontally 
 
 # Installation 
 download LogoArray.jsx 
+
 File > scripts > Run script file 
