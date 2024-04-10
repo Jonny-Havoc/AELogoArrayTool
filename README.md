@@ -3,6 +3,7 @@ A collection After Effects scripts for motion graphics in for LED screen content
 
 # Scripts Description 
 LogoArray.jsx - add logos and duplicate them evenly across the composition 
+
 GuideDivideTool.jsx - Evenly split guides across the composition 
 
 # Installation 
