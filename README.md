@@ -1,11 +1,11 @@
-# AELogoArrayTool
-An After Effects script for motion graphics involving sponsor logos 
+# AfterEffects_Scripts
+A collection After Effects scripts for motion graphics in for LED screen content creation 
 
-This script will allow you to select an image file from the project file. 
-
-It will then evenly duplicate the the logo across the comp, either horizontally or vertically depending on your input 
+# Scripts Description 
+LogoArray.jsx - add logos and duplicate them evenly across the composition 
+GuideDivideTool.jsx - Evenly split guides across the composition 
 
 # Installation 
-download LogoArray.jsx 
+download files 
 
 File > scripts > Run script file 
